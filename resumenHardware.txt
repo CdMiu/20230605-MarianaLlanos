@@ -1,0 +1,8 @@
+1. RAM (Random Access Memory): Memoria de acceso aleatorio y volátil que se utiliza para almacenar temporalmente los datos y programas que se están utilizando activamente en un momento dado. Es más rápida de acceder que el almacenamiento permanente, pero pierde su contenido cuando se apaga la computadora.
+
+2. ROM (Read-Only Memory): La memoria ROM es una memoria de solo lectura que contiene instrucciones y datos que son permanentes y no se pueden modificar. Contiene información fundamental para el arranque y funcionamiento básico de la computadora.
+
+3. Cache: La memoria caché es una memoria de alta velocidad y pequeña capacidad que se encuentra más cercana al procesador. Sirve como una memoria intermedia para almacenar temporalmente datos e instrucciones que se utilizan con frecuencia, con el fin de acelerar el acceso a ellos y mejorar el rendimiento del sistema.
+
+
+

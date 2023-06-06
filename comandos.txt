@@ -1,0 +1,37 @@
+$ cd 20230605-MarianaLlanos
+$ git init
+$ git remote add origin https://github.com/CdMiu/20230605-MarianaLlanos.git
+$ touch comandos.txt
+$ touch main.js
+$ touch index.html
+
+$ git status
+$ git add .
+$ git commit -m "primer commit"
+$ git push origin master
+
+$ git branch feature
+$ git checkout feature
+$ mkdir Hardware
+$ mkdir Software
+$ mkdir SeguridadInformatica
+
+$ cd Hardware
+$ touch resumen.txt
+
+$ cd Software
+$ touch resumen.txt
+
+$ cd SeguridadInformatica
+$ touch resumen.txt
+
+$ git add .
+$ git commit -m "nueva rama"
+$ git push origin feature
+$ git add .
+
+$ git branch main
+$ git checkout main
+$ git mv main.js resumenHardware.txt
+$ git mv index.html resumenSoftware.txt
+
